@@ -1,0 +1,12 @@
+pytorch-image-classification/
+│
+├── data/                     # auto-downloaded datasets (ignored by Git)
+├── models/                   # saved models
+│   └── model.pth
+├── outputs/                  # training plots, logs
+│   └── loss_plot.png
+│
+├── main.py                   # main training & evaluation script
+├── requirements.txt          # Python dependencies
+├── README.md                 # project overview
+└── .gitignore
