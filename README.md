@@ -1,13 +1,17 @@
 # 🧠 PyTorch Image Classification Project
 
+**Submission for Course: [Your Course Name]**  
+**Student: Saad Iqbal**  
+**Date: 2025-11-06**
+
 This project implements an image classification model using **PyTorch** and the **CIFAR-10 dataset**.  
-It includes data augmentation, model training, evaluation, and saving model parameters — meeting all rubric requirements.
+It includes data augmentation, model training, evaluation, and saving model parameters — fully meeting the project rubric.
 
 ---
 
 ## 📂 Project Structure
 
-pytorch-image-classification/
+pytorch-image-classification-project/
 ├── ProjectNotebook.ipynb # Main notebook for training & evaluation
 ├── model.py # Model architecture
 ├── train.py # Training utilities
@@ -52,6 +56,8 @@ Printed Accuracy: displayed at the end of training
 
 Recommendation Message: auto-generated based on performance
 
+Example:
+
 Epoch 10/10, Loss: 1.0523
 Test Accuracy: 56.78%
 ✅ Model meets the performance target. Recommendation: Build in-house.
@@ -74,8 +80,8 @@ Otherwise, using a pre-trained or external solution is recommended.
 
 👨‍💻 Author
 
-Mohammad Saad Iqbal
-iqbalsaad1996@gmail.com
+Saad Iqbal
+📦 GitHub Repository
 
 🏁 License
 
